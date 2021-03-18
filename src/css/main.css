@@ -17,16 +17,16 @@ body {
  }
  .nav-link:hover {
      background: transparent !important;
-     color: #AD91FF !important;
+     color: #f5f2fc !important;
      font-weight: bold !important;
  }
 
  .login-btn {
-     border: 2px solid #AD91FF !important;
+     border: 2px solid #f5f2fc !important;
      font-size: 10px !important;
  }
  .login-btn:hover {
-     background: #AD91FF !important;
+     background: #f5f2fc !important;
  }
 .navbar {
     box-shadow: none !important
